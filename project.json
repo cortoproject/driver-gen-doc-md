@@ -1,0 +1,12 @@
+{
+    "id": "driver/gen/doc/md",
+    "type": "package",
+    "value": {
+        "description": "Generate markdown for a corto model",
+        "author": "Sander Mertens",
+        "version": "1.0.0",
+        "language": "c",
+        "use": ["corto", "corto/g"],
+        "managed": false
+    }
+}
